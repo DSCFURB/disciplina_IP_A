@@ -33,6 +33,7 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 ## Links
 
 [Matriz curricular BCC](<https://www.furb.br/sites/default/files/2022-06/GRADE%20computaçao.pdf> "Matriz curricular BCC")  
+[Matriz curricular BCD](> "Matriz curricular BCD")  
 [Matriz curricular SIS](<https://www.furb.br/sites/default/files/2022-06/GRADE%20SISTEMAS%20DE%20INFO.pdf> "Matriz curricular SIS")  
 
 [AVA3]  
