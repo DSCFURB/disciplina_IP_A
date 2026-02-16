@@ -2,7 +2,7 @@
 [AVA3]: <https://ava3.furb.br/course/view.php?id=53161&section=0> "AVA3"  
 [Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=53161&section=1> "Plano de Ensino"  
 [Cronograma]: <./cronograma_IP_A.pdf> "cronograma_IP_A.pdf"  
-[Monitoria]: <https://dalton-reis.github.io/dalton-reis/DSC/indexMonitores.html> "Monitoria"  
+[Monitoria]: <https://dscfurb.github.io/dsc/indexMonitores.html> "Monitoria"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/rdGSUBmFq2> "Prova de Suficiência (inscrição)"
 [Ambiente de Desenvolvimento Prático]: <Unidade1/IDE.md> "Ambiente de Desenvolvimento Prático"  
 [Trabalho Final]: <./TrabalhoFinal> "Trabalho Final"  

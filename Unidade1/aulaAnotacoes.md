@@ -1,6 +1,6 @@
 [Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=53161&section=1> "Plano de Ensino"  
 [Apresentação do Professor]: <> "Apresentação do Professor"  
-[Monitoria]: <https://dalton-reis.github.io/dalton-reis/DSC/indexMonitores.html> "Monitoria"  
+[Monitoria]: <https://dscfurb.github.io/dsc/indexMonitores.html> "Monitoria"  
 
 # Algumas anotações das aulas
 
