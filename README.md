@@ -1,6 +1,6 @@
 <!-- [@] INICIO atualizar -->
-[AVA3]: <> "AVA3"  
-[Plano de Ensino]: <> "Plano de Ensino"  
+[AVA3]: <https://ava3.furb.br/course/view.php?id=53161&section=0> "AVA3"  
+[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=53161&section=1> "Plano de Ensino"  
 [Cronograma]: <./cronograma_IP_A.pdf> "cronograma_IP_A.pdf"  
 [Monitoria]: <https://dalton-reis.github.io/dalton-reis/DSC/indexMonitores.html> "Monitoria"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/rdGSUBmFq2> "Prova de Suficiência (inscrição)"
