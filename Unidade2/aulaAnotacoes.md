@@ -106,7 +106,7 @@ O que seria o "estilo" [CamelCase](https://pt.wikipedia.org/wiki/CamelCase#:~:te
 
 ## Algoritmos para praticar  
 
-> [!IMPORTANT]
+> \[!IMPORTANT]
 >
 > Na ciência da computação, a forma de comunicação precisa ser exata, precisa, inequívoca e com uma sintaxe correta.
 
