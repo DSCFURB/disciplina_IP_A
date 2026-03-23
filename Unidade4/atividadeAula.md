@@ -90,7 +90,7 @@ Para resolver este problema pode se utilizar do algoritmo descrito no fluxograma
 
 | Exemplos de entrada | Exemplos de saída |
 | -------- | -------- |
-| 105 | 2.1375 |
+| 105 | 1.8 |
 | 50 | 0.45 |
 
 ----------
