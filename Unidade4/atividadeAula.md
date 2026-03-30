@@ -399,3 +399,32 @@ O número de horas a pagar é sempre inteiro e arredondado para cima ou para bai
 | horaChegada: 08  minChegada: 05  horaSaida: 12  minSaida: 46 | Preço cobrado = R$35,00 |
 
 ----------
+### EXTRAS
+### Uni4Exe28.java
+Leia um número inteiro de 1 a 7 e imprima o dia da semana correspondente. 
+
+| Número | Dia           |
+| ------ | ------------- |
+| 1      | Domingo       |
+| 2      | Segunda-feira |
+| 3      | Terça-feira   |
+| 4      | Quarta-feira  |
+| 5      | Quinta-feira  |
+| 6      | Sexta-feira   |
+| 7      | Sábado        |
+
+Caso o número seja inválido, imprimir: Dia Inválido
+
+### Uni4Exe29.java
+Leia dois números inteiros e uma operação representada por seu símbolo (+,-, /, *). Execute a operação correspondente. Lembre-se que na divisão, o número 2 não pode ser 0.
+
+### Uni4Exe30.java
+DESAFIO: Simulador de caixa eletrônico
+
+Menu:
+1 - Ver saldo
+2 - Depositar
+3 - Sacar
+4 - Sair
+
+Dependendo da opção, execute a ação correspondente.
