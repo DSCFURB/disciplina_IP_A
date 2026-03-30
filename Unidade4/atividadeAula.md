@@ -421,10 +421,14 @@ Leia dois números inteiros e uma operação representada por seu símbolo (+,-,
 ### Uni4Exe30.java
 DESAFIO: Simulador de caixa eletrônico
 
-Menu:
+Menu
+
 1 - Ver saldo
+
 2 - Depositar
+
 3 - Sacar
+
 4 - Sair
 
 Dependendo da opção, execute a ação correspondente.
