@@ -13,8 +13,20 @@ public class Unid5Exe16 {
         System.out.print("Altura ou 0 para sair: ");
         float altura = s.nextFloat();
         while (altura != 0) {
-            System.out.print("Digite o gênero (F, M ou O): ");
+
+          /*   System.out.print("Digite o gênero (F, M ou O): ");
             char genero = s.next().toUpperCase().charAt(0);
+            while (genero != 'M' && genero != 'F' && genero != 'O') {
+                System.out.println("Gênero inválido, tente novamnete.");
+                System.out.print("Digite o gênero (F, M ou O): ");
+                genero = s.next().toUpperCase().charAt(0);
+            }*/
+
+            char genero = '\b';
+            do { 
+                System.out.print("Digite o gênero (F, M ou O): ");
+                genero = s.next().toUpperCase().charAt(0);
+            } while (genero != 'M' && genero != 'F' && genero != 'O');
 
             /*switch (genero) {
                 case 'F':
