@@ -1,0 +1,57 @@
+import java.text.DecimalFormat;
+import java.util.Scanner;
+
+public class Unid5Exe16 {
+    
+    public Unid5Exe16() {
+        Scanner s = new Scanner(System.in);
+        float alturaMulheres = 0;
+        float alturaGrupo = 0;
+        int qtdMulheres = 0;
+        int qtdGrupo = 0;
+
+        float altura = informarAltura(s);
+        
+        while (altura != 0) {
+            char genero = '\b';
+            do { 
+                System.out.print("Digite o gênero (F, M ou O): ");
+                genero = s.next().toUpperCase().charAt(0);
+            } while (genero != 'M' && genero != 'F' && genero != 'O');
+
+            if (genero == 'F') {
+                qtdMulheres++;
+                alturaMulheres += altura;
+            }
+            qtdGrupo++;
+            alturaGrupo += altura;
+
+            altura = informarAltura(s);
+        }
+
+
+        saida(alturaMulheres, alturaGrupo, qtdMulheres, qtdGrupo);
+
+        s.close();
+    }
+
+    private void saida(float alturaMulheres, float alturaGrupo, int qtdMulheres, int qtdGrupo) {
+        float mediaMulheres = alturaMulheres / qtdMulheres;
+        float mediaGrupo = alturaGrupo / qtdGrupo;
+
+        
+        DecimalFormat df = new DecimalFormat("#.00");
+        System.out.println("A média da altura das mulheres é: " + 
+                        df.format(mediaMulheres) +
+                        "\nA média de altura do grupo é: " + df.format(mediaGrupo));
+    }
+
+    private float informarAltura(Scanner teclado) {
+        System.out.print("Altura ou 0 para sair: ");
+        return teclado.nextFloat();
+    }
+
+    public static void main(String[] args) throws Exception {
+        new Unid5Exe16();
+    }
+}
