@@ -52,6 +52,7 @@ Posições vazias devem ser representadas por:
 ```
 
 O objetivo do jogador é explorar posições da ilha, encontrar tesouros, evitar armadilhas e fazer a maior pontuação possível antes que as tentativas acabem.
+O tesouro deve ser populado de forma randômica.
 
 ---
 
@@ -146,7 +147,8 @@ Deve encerrar o jogo, mesmo que ainda existam tentativas disponíveis.
    - acabarem as tentativas; ou
    - todos os tesouros forem encontrados; ou
    - o jogador escolher a opção sair.
-10. Ao final do jogo, o programa deve perguntar se o jogador deseja reiniciar a partida.
+10. O jogador tem no máximo 8 jogadas.
+11. Ao final do jogo, o programa deve perguntar se o jogador deseja reiniciar a partida.
 
 ---
 
@@ -230,6 +232,7 @@ O programa deve conter obrigatoriamente:
 13. Opção de mostrar status.
 14. Pergunta para reiniciar o jogo ao final.
 15. Execução totalmente via Console.
+16. O tesouro deve ser populado de forma randômica.
 
 ---
 
